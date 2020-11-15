@@ -1,10 +1,10 @@
 ## Studying Dynamic programming
 ## Sources :
-[MIT - Introduction-to-algorithms-fall-2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
-[DP I](https://www.youtube.com/watch?v=OQ5jsbhAv_M&t=1811s)
-[DP II](https://www.youtube.com/watch?v=ENyox7kNKeY)
-[DP III](https://www.youtube.com/watch?v=ocZMDMZwhCY)
-[DP IV](https://www.youtube.com/watch?v=tp4_UXaVyx8)
+- [MIT - Introduction-to-algorithms-fall-2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [DP I](https://www.youtube.com/watch?v=OQ5jsbhAv_M&t=1811s)
+- [DP II](https://www.youtube.com/watch?v=ENyox7kNKeY)
+- [DP III](https://www.youtube.com/watch?v=ocZMDMZwhCY)
+- [DP IV](https://www.youtube.com/watch?v=tp4_UXaVyx8)
 
 ## DP Principles :
 - Careful brute force
